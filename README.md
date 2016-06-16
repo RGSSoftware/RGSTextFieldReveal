@@ -2,7 +2,7 @@
 
 New Material Text-Fields
 
-This project is a implementation of a [Dribbble](https://dribbble.com/shots/2197140-New-Material-Text-Fields) shot. 
+This project is an implementation of a [Dribbble](https://dribbble.com/shots/2197140-New-Material-Text-Fields) shot. 
 
 <img src="https://github.com/RGSSoftware/RGSTextFieldReveal/blob/master/sceenshots/gif.gif" alt="iPhone 5" width="311" />
 
