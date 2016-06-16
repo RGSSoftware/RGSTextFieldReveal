@@ -1,6 +1,6 @@
 # RGSTextFieldReveal
 
-New Material Text-Fields
+New Material UITextField
 
 This project is an implementation of a [Dribbble](https://dribbble.com/shots/2197140-New-Material-Text-Fields) shot. 
 
