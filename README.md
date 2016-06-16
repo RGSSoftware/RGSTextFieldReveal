@@ -7,10 +7,12 @@ This project is an implementation of a [Dribbble](https://dribbble.com/shots/219
 <img src="https://github.com/RGSSoftware/RGSTextFieldReveal/blob/master/sceenshots/gif.gif" alt="iPhone 5" width="311" />
 
 ## Storyboard Example
-Add an UIView to your storyboard. 
-Change its subclass to RGSTextFieldReveal. 
-Change its Intrinsic Size to Placeholder.
-Change width to None.
+- Add an UIView to your storyboard. 
+- Change its subclass to RGSTextFieldReveal. 
+- Change its Intrinsic Size to Placeholder.
+- Change width to None.
+
+For full example please download project.
 
 <img src="https://github.com/RGSSoftware/RGSTextFieldReveal/blob/master/sceenshots/storyboard.png" alt="Storyboard" width="756" />
 
@@ -19,21 +21,21 @@ Change width to None.
 `RGSTextFieldReveal` can be customized via the following @properties
 
 ```swift
-    var placeholderButton: UIButton!
+var placeholderButton: UIButton!
 
-    var reveralView: UIView!
-    internal var textField: UITextField!
+var reveralView: UIView!
+var textField: UITextField!
     
-    var reveralViewMinHeight: CGFloat
-    var reveralViewMaxHeight: CGFloat
+var reveralViewMinHeight: CGFloat
+var reveralViewMaxHeight: CGFloat
 
-    internal var openDuration: Double
-    internal var closeDuration: Double
+var openDuration: Double
+var closeDuration: Double
 
-    internal var isOpen: Bool
+var isOpen: Bool
 
-    func open()
-    func close()
+func open()
+func close()
 ```
 
 ##Limitation
